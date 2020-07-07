@@ -40,7 +40,8 @@
       }
     ],
     "uniqCompNum": 0,
-    "versionPublish": "5.0.11"
+    "versionPublish": "5.0.11",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
